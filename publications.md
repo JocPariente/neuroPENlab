@@ -28,7 +28,7 @@ share-description: "Peer-reviewed publications from the Pain and Emotion Neurosc
 
 For a complete list of 40+ peer-reviewed publications spanning research on pain neuroimaging, brain connectivity, fibromyalgia, psychiatric disorders (OCD, depression, anxiety), and functional MRI studies, please visit:
 
-- [Google Scholar — Marina López-Solà](https://scholar.google.com/citations?user=REPLACE_WITH_ID)
+- [Google Scholar — Marina López-Solà](https://scholar.google.com/citations?user=--bHhqsAAAAJ&hl=en)
 - [PubMed search](https://pubmed.ncbi.nlm.nih.gov/?term=lopez-sola+m)
 
 ---

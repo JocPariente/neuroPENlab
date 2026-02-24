@@ -3,6 +3,7 @@ layout: page
 title: Participation
 subtitle: Participate in our research
 share-title: "Participate in PENLab Research"
+share-description: "Participate in pain and emotion neuroscience research studies at the University of Barcelona."
 ---
 
 ## Get Involved

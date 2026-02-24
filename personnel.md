@@ -11,7 +11,7 @@ share-description: "Meet the members of the Pain and Emotion Neuroscience Lab at
 
 <div class="person-card" style="display: flex; gap: 25px; margin-bottom: 40px; padding: 25px; background: #f8f9fa; border-radius: 10px;">
   <div style="flex-shrink: 0;">
-    <img src="/assets/img/personnel/marina-lopez-sola.jpg" alt="Marina López-Solà" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
+    <img src="{{ '/assets/img/personnel/marina-lopez-sola.jpg' | relative_url }}" alt="Marina López-Solà" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
   </div>
   <div>
     <h3 style="margin-top: 0;">Marina López-Solà, PhD</h3>
@@ -30,7 +30,7 @@ share-description: "Meet the members of the Pain and Emotion Neuroscience Lab at
 
 <div class="person-card" style="display: flex; gap: 25px; margin-bottom: 40px; padding: 25px; background: #f8f9fa; border-radius: 10px;">
   <div style="flex-shrink: 0;">
-    <img src="/assets/img/personnel/maria-sunol.jpg" alt="Maria Suñol Rodrigo" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
+    <img src="{{ '/assets/img/personnel/maria-sunol.jpg' | relative_url }}" alt="Maria Suñol Rodrigo" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
   </div>
   <div>
     <h3 style="margin-top: 0;">Maria Suñol Rodrigo</h3>
@@ -43,7 +43,7 @@ share-description: "Meet the members of the Pain and Emotion Neuroscience Lab at
 
 <div class="person-card" style="display: flex; gap: 25px; margin-bottom: 40px; padding: 25px; background: #f8f9fa; border-radius: 10px;">
   <div style="flex-shrink: 0;">
-    <img src="/assets/img/personnel/saul-pascual.jpg" alt="Saül Pascual Díaz" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
+    <img src="{{ '/assets/img/personnel/saul-pascual.jpg' | relative_url }}" alt="Saül Pascual Díaz" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
   </div>
   <div>
     <h3 style="margin-top: 0;">Saül Pascual Díaz</h3>
@@ -61,7 +61,7 @@ share-description: "Meet the members of the Pain and Emotion Neuroscience Lab at
 
 <div class="person-card" style="display: flex; gap: 25px; margin-bottom: 40px; padding: 25px; background: #f8f9fa; border-radius: 10px;">
   <div style="flex-shrink: 0;">
-    <img src="/assets/img/personnel/laura-martin.jpg" alt="Laura Martin Herrero" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
+    <img src="{{ '/assets/img/personnel/laura-martin.jpg' | relative_url }}" alt="Laura Martin Herrero" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
   </div>
   <div>
     <h3 style="margin-top: 0;">Laura Martin Herrero</h3>
@@ -79,7 +79,7 @@ share-description: "Meet the members of the Pain and Emotion Neuroscience Lab at
 
 <div class="person-card" style="display: flex; gap: 25px; margin-bottom: 40px; padding: 25px; background: #f8f9fa; border-radius: 10px;">
   <div style="flex-shrink: 0;">
-    <img src="/assets/img/personnel/lucia-blanc.jpg" alt="Lucia Blanc Velázquez" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
+    <img src="{{ '/assets/img/personnel/lucia-blanc.jpg' | relative_url }}" alt="Lucia Blanc Velázquez" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
   </div>
   <div>
     <h3 style="margin-top: 0;">Lucia Blanc Velázquez</h3>
@@ -91,7 +91,7 @@ share-description: "Meet the members of the Pain and Emotion Neuroscience Lab at
 
 <div class="person-card" style="display: flex; gap: 25px; margin-bottom: 40px; padding: 25px; background: #f8f9fa; border-radius: 10px;">
   <div style="flex-shrink: 0;">
-    <img src="/assets/img/personnel/catherine-jackson.jpg" alt="Catherine Jackson" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
+    <img src="{{ '/assets/img/personnel/catherine-jackson.jpg' | relative_url }}" alt="Catherine Jackson" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
   </div>
   <div>
     <h3 style="margin-top: 0;">Catherine Jackson</h3>
@@ -108,7 +108,7 @@ share-description: "Meet the members of the Pain and Emotion Neuroscience Lab at
 
 <div class="person-card" style="display: flex; gap: 25px; margin-bottom: 40px; padding: 25px; background: #f8f9fa; border-radius: 10px;">
   <div style="flex-shrink: 0;">
-    <img src="/assets/img/personnel/miguel-montero.jpg" alt="Miguel Montero Escobedo" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
+    <img src="{{ '/assets/img/personnel/miguel-montero.jpg' | relative_url }}" alt="Miguel Montero Escobedo" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
   </div>
   <div>
     <h3 style="margin-top: 0;">Miguel Montero Escobedo</h3>

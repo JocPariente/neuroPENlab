@@ -3,6 +3,7 @@ layout: page
 title: News
 subtitle: Latest updates from PENLab
 share-title: "PENLab News"
+share-description: "Latest news and updates from the Pain and Emotion Neuroscience Lab at the University of Barcelona."
 ---
 
 ## 2023

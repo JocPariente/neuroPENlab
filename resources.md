@@ -3,6 +3,7 @@ layout: page
 title: Resources
 subtitle: Useful resources and links
 share-title: "PENLab Resources"
+share-description: "Neuroimaging tools, open-source code, and useful links from PENLab."
 ---
 
 ## Lab Resources

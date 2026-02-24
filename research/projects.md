@@ -3,6 +3,7 @@ layout: page
 title: Research Projects
 subtitle: Current and past research projects
 share-title: "PENLab Research Projects"
+share-description: "Current research projects on pain neuroscience, brain imaging, and affective disorders at PENLab."
 ---
 
 ## PENLab Mission
@@ -22,4 +23,4 @@ Studying the effects of social support, mindfulness meditation, and altruistic b
 
 ---
 
-*For more information about our projects, please [contact us](/contact).*
+*For more information about our projects, please [contact us]({{ '/contact' | relative_url }}).*
