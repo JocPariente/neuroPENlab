@@ -1,0 +1,107 @@
+###########################################################
+# PENLab - Pain and Emotion Neuroscience Lab
+# Beautiful Jekyll Configuration
+###########################################################
+
+# --- Site Settings ---
+title: PENLab
+subtitle: Pain and Emotion Neuroscience Lab
+description: >-
+  The Pain and Emotion Neuroscience Laboratory (PENLab) investigates how the human brain
+  builds up the experience of bodily pain and emotional suffering in health and disease
+  across the lifespan. Directed by Dr. Marina López-Solà at the University of Barcelona.
+
+url: "https://neuroPENlab.github.io"
+baseurl: ""
+
+# --- SEO Settings ---
+lang: en
+keywords: "neuroscience, pain, emotion, brain imaging, fMRI, chronic pain, depression, anxiety, PENLab, Marina López-Solà, University of Barcelona"
+author: Marina López-Solà
+locale: en_US
+
+# --- Social Media ---
+social:
+  name: PENLab
+  links:
+    - https://github.com/neuroPENlab
+    - https://twitter.com/PENLab6
+
+github_username: neuroPENlab
+twitter_username: PENLab6
+email: penlabneuro@gmail.com
+
+# --- Navigation Bar ---
+navbar-links:
+  Home: "/"
+  About: "about"
+  News: "news"
+  Personnel: "personnel"
+  Publications: "publications"
+  Research:
+    - Projects: "research/projects"
+    - Codes: "research/codes"
+    - Participation: "research/participation"
+  Resources: "resources"
+  Lab Stories:
+    - Videos: "lab-stories/videos"
+    - Art Gallery: "lab-stories/art-gallery"
+    - Media: "lab-stories/media"
+  Contact: "contact"
+
+# --- Logo and Favicon ---
+navbar-img: "/assets/img/penlab-logo.png"
+# favicon: "/assets/img/favicon.ico"
+
+# --- Footer ---
+footer-links-active:
+  github: true
+  twitter: true
+  email: true
+
+footer-col-title: PENLab
+footer-text: "Marina López-Solà | Pain and Emotion Neuroscience Lab | University of Barcelona"
+
+# --- Build Settings ---
+theme: beautiful-jekyll-theme
+remote_theme: daattali/beautiful-jekyll@6.0.1
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-remote-theme
+
+# --- Pagination ---
+paginate: 10
+paginate_path: "/news/page:num/"
+
+# --- Exclude ---
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME
+  - vendor
+
+# --- Colours / Appearance ---
+navbar-col: "#1a1a2e"
+navbar-text-col: "#e0e0e0"
+navbar-border-col: "#16213e"
+page-col: "#ffffff"
+text-col: "#404040"
+link-col: "#0f3460"
+hover-col: "#e94560"
+footer-col: "#1a1a2e"
+footer-text-col: "#e0e0e0"
+footer-link-col: "#e94560"
+footer-hover-col: "#ffffff"
