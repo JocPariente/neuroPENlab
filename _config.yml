@@ -11,8 +11,8 @@ description: >-
   builds up the experience of bodily pain and emotional suffering in health and disease
   across the lifespan. Directed by Dr. Marina López-Solà at the University of Barcelona.
 
-url: "https://neuroPENlab.github.io"
-baseurl: ""
+url: "https://jocpariente.github.io"
+baseurl: "/neuroPENlab"
 
 # --- SEO Settings ---
 lang: en
