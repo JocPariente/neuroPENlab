@@ -3,7 +3,7 @@
 set -euo pipefail
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-SITE_DIR="$ROOT_DIR/penlab"
+SITE_DIR="$ROOT_DIR/docs"
 
 cd "$SITE_DIR"
 
